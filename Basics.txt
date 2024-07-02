@@ -1,6 +1,6 @@
  HTML (Hypertext Markup Language) is the standard language for creating web pages and web applications. Here is a basic overview:
  Key Elements
-/*<!DOCTYPE html>: Declares the document type and version of HTML.
+<!DOCTYPE html>: Declares the document type and version of HTML.
 <html>: The root element of an HTML document.
 <head>: Contains meta-information about the document (e.g., title, meta tags).
 <title>: Specifies the title of the document (shown in the browser's title bar or tab).
@@ -19,6 +19,5 @@ Ordered: <ol> <li>Item</li> </ol>
 Unordered: <ul> <li>Item</li> </ul>
 Tables: <table> <tr> <td>Data</td> </tr> </table>
 Forms: <form> <input type="text"> </form>
-*/
 Here are some tags useful in HTML 
 *Also you get full codes of HTML here .
